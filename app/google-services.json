@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "504431908703",
+    "firebase_url": "https://miadwiaulia1202150287modul6.firebaseio.com",
+    "project_id": "miadwiaulia1202150287modul6",
+    "storage_bucket": "miadwiaulia1202150287modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504431908703:android:5f75f3605cc0f22c",
+        "android_client_info": {
+          "package_name": "com.tugas.asus.miadwiaulia_1202150287_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504431908703-ukue4vr9g9mn5q31ur3d068slm186r1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tugas.asus.miadwiaulia_1202150287_modul6",
+            "certificate_hash": "cf4c9c81edb4f525fea8ea9c2ed0f2456bc9aa3f"
+          }
+        },
+        {
+          "client_id": "504431908703-kqnhosq40dd1kqi608uf9128jnfcle34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZTOatBYQQOsE95UQy56II3Me5iuFKdl0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504431908703-kqnhosq40dd1kqi608uf9128jnfcle34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
